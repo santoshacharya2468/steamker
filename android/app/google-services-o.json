@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "92860323523",
+    "project_id": "de-dating-9b6b6",
+    "storage_bucket": "de-dating-9b6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92860323523:android:e4a4ffb76f759f5e8af476",
+        "android_client_info": {
+          "package_name": "com.example.streamkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92860323523-v1f1lc2jhjo4vimc16lmmj3fdo3lg43d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streamkar",
+            "certificate_hash": "1c7a4014dbc2cf5ee8875da1652dedc19e23e71d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxU8USjb3z3UeLFOYkVl4m_qnasN39ni8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
